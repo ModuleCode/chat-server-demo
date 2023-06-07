@@ -12,6 +12,7 @@ public class Student {
     private int id;
     @NotEmpty
     private String name;
+
     @NotNull
     private String gender;
 
